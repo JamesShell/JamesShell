@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoProffessional
+- 👋 Hi, I’m James
 - 👀 I’m interested in mobile && web dev
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ???
