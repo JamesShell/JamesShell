@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ???
 - 📫 Reach me by my email (so.professional.me@gmail.com)
 
-       .-.,     ,.-.
+ 	```      .-.,     ,.-.
  '-.  /:::\\   //:::\  .-'
  '-.\|':':' `"` ':':'|/.-'
  `-./`. .-=-. .-=-. .`\.-`
@@ -16,7 +16,7 @@
    \   \:   .'.   :/   /
     `\= '--`   `--' =/'
       `-=._     _.=-'
-           `"""`
+           `"""`	```
 
 <!---
 SoProffessional/SoProffessional is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
