@@ -1,9 +1,3 @@
-- 👋 Hi, I’m James
-- 👀 I’m interested in mobile && web dev
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ???
-- 📫 Reach me by my email (so.professional.me@gmail.com)
-
 ```
                                __________
                       ________|          |________
