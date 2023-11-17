@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3R7Y68)
 ```
                                __________
                       ________|          |________
