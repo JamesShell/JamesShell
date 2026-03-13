@@ -1,6 +1,8 @@
 hi! i’m abdelkader.
 
-i make websites, apps, interfaces, and a suspicious number of side projects. i got into all this through unity, drifted into web development, and never really left. these days i spend most of my time building things, redesigning them, and then moving one pixel back and forth for no good reason.
+I build web applications and interfaces. I got my start in Unity before moving over to web development, and I’ve been building for the web ever since. I’m usually working on a mix of client work and a handful of personal side projects.
+
+though I'm still working on the habit of committing as I go, rather than condensing weeks of work into three massive final pushes.
 
 [[home]](https://ettouza.vercel.app) · [[studio]](https://etza.dev/) · [[email]](mailto:ettozany@gmail.com)
 
