@@ -1,6 +1,6 @@
 hi! i’m abdelkader.
 
-I build web applications and interfaces. I got my start in Unity before moving over to web development, and I’ve been building for the web ever since. I’m usually working on a mix of client work and a handful of personal side projects.
+I build web applications and interfaces. I got my start in Unity before moving over to web development, and I’ve been building for the web ever since.
 
 though I'm still working on the habit of actually committing code before the project is basically finished.
 
